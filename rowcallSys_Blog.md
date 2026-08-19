@@ -1,8 +1,8 @@
 ---
-title: "My first post"
-date: 2026-08-13
-description: "A short summary shown on the blog card."
-tags: [nextjs, javascript]
+title: "Mini LocalQR Rowcall Sys"
+date: 2026-08-19
+description: "How I solve row call on paper problem by using technology."
+tags: [react, express, javascript]
 ---
 
 # How I Built a QR Roll Call System to Fix a Problem I Hated Every Class
